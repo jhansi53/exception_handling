@@ -33,6 +33,6 @@ class exception_handling
         System.out.println(e);
     }
     finally{
-        System.out.println("this is finally block always excuted wethere the exception is occur or not");
+        System.out.println("this is finally block always excuted wethere the exception is occur  not");
     }
     }}
